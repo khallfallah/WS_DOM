@@ -13,3 +13,6 @@
     color: red;
     font-size: 30px;
 }
+.table-hover table-dark{
+    background: aqua;
+}
